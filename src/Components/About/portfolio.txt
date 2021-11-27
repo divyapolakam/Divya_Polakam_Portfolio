@@ -1,0 +1,12 @@
+<div class="project-card">
+                    <h1 class="project-card-heading"></h1>
+                    <img src="" class="project-card-image"/>
+                    <p class="project-paragraph"></p>
+                    <button class="project-card-button btn btn-primary" onClick ={clickcard2buttonHandler}> Click Here </button>
+                </div>
+                <div class="project-card">
+                    <h1 class="project-card-heading"></h1>
+                    <img src="" class="project-card-image"/>
+                    <p class="project-paragraph"></p>
+                    <button class="project-card-button btn btn-primary" onClick ={clickcard3buttonHandler}> Click Here </button>
+                </div>

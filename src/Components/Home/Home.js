@@ -1,6 +1,5 @@
 import React, {component} from "react";
 import { Link } from 'react-router-dom';
-import logo1 from './logo1.jpg';
 import divya from './divya.jpg';
 import './Home.css';
 import { getByDisplayValue } from "@testing-library/dom";
@@ -34,30 +33,25 @@ function Home(props){
     return (
         <div>
             <body>
-                <div>
-                    <div className="navigation">
-                        <img src="logo1.jpg"/>
-                        <Link to="/resume" className="item"> Resume </Link>
-                        <Link to="/projects" className="item"> Projects </Link>
-                        <Link to="/work samples" className="item"> Work Samples </Link>
-                        <Link to="/about" className="item"> About </Link>
-                    </div>
-                    <div className="container">
+                <div class="home-container">
+                    <div className="main-container">
                         <br/>
-                        <img src={divya}/>
-                        <h1> I'm Divya </h1>
-                        
-                        <p> A Computer Science Engineering student <br/> looking for a good opportunity which enhance <br/>my skills  and improve knowledge everyday! <br/></p>
-                        
-                    </div>
-                    
-            </div>
-            <div className= "footer">
-                        <p> Design and development by Divya Polakam </p>
-                        <FontAwesomeIcon icon= { faEnvelope } mailto="mailto:divyapolakam24@gmail.com" /> 
-                        <FontAwesomeIcon icon= { faLinkedinIn } onClick ={clicklinkedinHandler}/>
-                        <FontAwesomeIcon icon= { faGithub } onClick ={clickgithubHandler} />
+                        <img src={divya} class="divya-img"/>
+                        <h1 class="hello-heading"> Hello,</h1>
+                        <h1 class="home-heading"> I'm Divya </h1>
+                        <br/>
+                        <p class="home-paragraph"> A Computer Science Engineering student <br/> looking for a good opportunity which enhance <br/>my skills  and improve knowledge everyday! <br/><br/><br/></p>
                         </div>
+                </div>
+                <div className= "footer">
+                        <p class="footer-paragraph"> >> Designed and Developed by Divya Polakam </p>
+                        
+                        <FontAwesomeIcon icon= { faEnvelope } mailto="mailto:divyapolakam24@gmail.com" class="icon envelope-icon"/> 
+                        <FontAwesomeIcon icon= { faLinkedinIn } onClick ={clicklinkedinHandler} class="icon linkedin-icon"/>
+                        <FontAwesomeIcon icon= { faGithub } onClick ={clickgithubHandler} class="icon github-icon"/>
+                        <p class="footer-contact"> Contact: </p>
+                </div>
+                    
             </body>
         </div>
     )
