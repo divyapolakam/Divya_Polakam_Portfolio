@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Divya_Polakam_Portfolio/static/css/main.db9b5989.chunk.css",
+    "main.js": "/Divya_Polakam_Portfolio/static/js/main.f67b9e7d.chunk.js",
+    "main.js.map": "/Divya_Polakam_Portfolio/static/js/main.f67b9e7d.chunk.js.map",
+    "runtime-main.js": "/Divya_Polakam_Portfolio/static/js/runtime-main.dccd35d0.js",
+    "runtime-main.js.map": "/Divya_Polakam_Portfolio/static/js/runtime-main.dccd35d0.js.map",
+    "static/css/2.d45d6843.chunk.css": "/Divya_Polakam_Portfolio/static/css/2.d45d6843.chunk.css",
+    "static/js/2.eed5a78b.chunk.js": "/Divya_Polakam_Portfolio/static/js/2.eed5a78b.chunk.js",
+    "static/js/2.eed5a78b.chunk.js.map": "/Divya_Polakam_Portfolio/static/js/2.eed5a78b.chunk.js.map",
+    "static/js/3.cbc4111d.chunk.js": "/Divya_Polakam_Portfolio/static/js/3.cbc4111d.chunk.js",
+    "static/js/3.cbc4111d.chunk.js.map": "/Divya_Polakam_Portfolio/static/js/3.cbc4111d.chunk.js.map",
+    "index.html": "/Divya_Polakam_Portfolio/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/Divya_Polakam_Portfolio/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.db9b5989.chunk.css.map": "/Divya_Polakam_Portfolio/static/css/main.db9b5989.chunk.css.map",
+    "static/js/2.eed5a78b.chunk.js.LICENSE.txt": "/Divya_Polakam_Portfolio/static/js/2.eed5a78b.chunk.js.LICENSE.txt",
+    "static/media/card-1.1c3a3511.jpg": "/Divya_Polakam_Portfolio/static/media/card-1.1c3a3511.jpg",
+    "static/media/card-2.dadd2974.png": "/Divya_Polakam_Portfolio/static/media/card-2.dadd2974.png",
+    "static/media/card-3.ce083d93.png": "/Divya_Polakam_Portfolio/static/media/card-3.ce083d93.png",
+    "static/media/divya.986c87c3.jpg": "/Divya_Polakam_Portfolio/static/media/divya.986c87c3.jpg",
+    "static/media/logo1.173ecd2a.jpg": "/Divya_Polakam_Portfolio/static/media/logo1.173ecd2a.jpg",
+    "static/media/work_sample1.91ea1e7b.png": "/Divya_Polakam_Portfolio/static/media/work_sample1.91ea1e7b.png",
+    "static/media/work_sample2.187e15ea.jpg": "/Divya_Polakam_Portfolio/static/media/work_sample2.187e15ea.jpg",
+    "static/media/work_sample3.9dc3a151.jpg": "/Divya_Polakam_Portfolio/static/media/work_sample3.9dc3a151.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dccd35d0.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.eed5a78b.chunk.js",
+    "static/css/main.db9b5989.chunk.css",
+    "static/js/main.f67b9e7d.chunk.js"
+  ]
+}
