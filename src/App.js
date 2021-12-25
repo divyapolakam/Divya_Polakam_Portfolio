@@ -13,6 +13,7 @@ function App() {
     <BrowserRouter>
     <div className="App">
     <div className="navigation">
+      <Home/>
                         <img src= {logo1} class="logo"/>
                         <Link to="/home" className="item"> Home </Link>
                         <Link to="/resume" className="item"> Resume </Link>
