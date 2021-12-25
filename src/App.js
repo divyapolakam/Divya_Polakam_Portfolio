@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Route, Link } from 'react-router-dom';
-import Home from './Components/Home/Home.js';
+import Home from './Components/Home';
 import Resume from './Components/Resume/Resume.js';
 import Projects from './Components/Projects/Projects.js';
 import Worksamples from './Components/Work Samples/Worksamples.js';
